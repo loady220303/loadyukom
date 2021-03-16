@@ -1,0 +1,14 @@
+function hello () {
+
+
+
+
+
+
+
+
+
+
+    
+    document.querySelector()
+}
