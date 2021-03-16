@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import axios from "axios";
-import Select from "react-select"
+import Select from "react-select";
 
 function Home(props) {
     const [visibleOrigin, setVisibleOrigin] = useState(false);
